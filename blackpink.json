@@ -1,0 +1,42 @@
+[
+  {
+    "id_produk": "1",
+    "nama_produk": "Boneka Bantal BLACKPINK Lisa",
+    "harga_produk": "100000",
+    "foto_produk": "lisa.jpeg",
+    "deskripsi_produk": "Blackpink in Your Area <br>\r\nBlinks <br>\r\nMaterial Velboa <br>\r\nIsi Dacron <br>\r\nSize : 30cm x 35cm",
+    "stok_produk": "32"
+  },
+  {
+    "id_produk": "2",
+    "nama_produk": "Boneka Bantal BLACKPINK Rose",
+    "harga_produk": "90000",
+    "foto_produk": "rose.jpeg",
+    "deskripsi_produk": "Blackpink in Your Area <br>\r\nBlinks <br>\r\nMaterial Velboa <br>\r\nIsi Dacron <br>\r\nSize : 30cm x 35cm",
+    "stok_produk": "33"
+  },
+  {
+    "id_produk": "3",
+    "nama_produk": "Boneka Bantal BLACKPINK Jennie",
+    "harga_produk": "80000",
+    "foto_produk": "jennie.jpeg",
+    "deskripsi_produk": "Blackpink in Your Area <br>\r\nBlinks <br>\r\nMaterial Velboa <br>\r\nIsi Dacron <br>\r\nSize : 30cm x 35cm",
+    "stok_produk": "33"
+  },
+  {
+    "id_produk": "4",
+    "nama_produk": "Boneka Bantal BLACKPINK Jisoo",
+    "harga_produk": "70000",
+    "foto_produk": "jisoo.jpeg",
+    "deskripsi_produk": "Blackpink in Your Area <br>\r\nBlinks <br>\r\nMaterial Velboa <br>\r\nIsi Dacron <br>\r\nSize : 30cm x 35cm",
+    "stok_produk": "33"
+  },
+  {
+    "id_produk": "5",
+    "nama_produk": "Boneka Bantal BLACKPINK K-pop",
+    "harga_produk": "60000",
+    "foto_produk": "blackpink.jpeg",
+    "deskripsi_produk": "Blackpink in Your Area <br>\r\nBlinks <br>\r\nMaterial Velboa <br>\r\nIsi Dacron <br>\r\nSize : 30cm x 35cm",
+    "stok_produk": "50"
+  }
+]
