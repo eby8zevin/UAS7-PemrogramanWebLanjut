@@ -4,8 +4,9 @@ include 'koneksi.php';
 $query = mysqli_query($koneksi, "SELECT * FROM produk");
 $array_data = array();
 
-while ($row = mysqli_fetch_assoc($query)) {
-    $array_data [] = $row;
+while ($row = mysqli_fetch_assoc($query))
+{
+    $array_data[] = $row;
 }
 
 header('Content-type: text/javascript');
